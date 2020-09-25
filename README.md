@@ -15,8 +15,8 @@ POST https://url-shortener-paul.netlify.app/.netlify/functions/server/api/shortu
 
 #### Usage:
 
-https://url-shortener-paul.netlify.app/.netlify/functions/server/api/shorturl/3
+https://url-shortener-paul.netlify.app/.netlify/functions/server/api/shorturl/100
 
 #### Will redirect to:
 
-https://www.freecodecamp.org/forum/
+https://www.duckduckgo.com
