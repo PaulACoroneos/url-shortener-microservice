@@ -1,4 +1,4 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
+# API Project: URL Shortener Microservice for freeCodeCamp (CURRENTLY DOWN. NEED TO FIGURE OUT HOW TO USE MONGO W/ NETLIFY SERVERLESS. WILL WORK LOCALLY ON PORT 3000)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f020bfd7-82e7-4b0c-bb7d-e09cf4860ca6/deploy-status)](https://app.netlify.com/sites/mystifying-thompson-56df47/deploys)
 
